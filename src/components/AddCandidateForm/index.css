@@ -1,0 +1,61 @@
+.name{
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.phone{
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.email{
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+}
+
+.gender{
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-right: 15px;
+}
+
+.experience{
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-right: 15px;
+}
+
+.skills{
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-right: 15px;
+}
+
+.addBtn{
+    text-align: center;
+    margin: 25px;
+}
+
+.btn{
+    background-color: rgb(99, 99, 250);
+    font-family: Roboto;
+    outline: none;
+    cursor: pointer;
+    padding: 6px;
+    border: none;
+    color: #ffffff;
+    font-size: 18px;
+}

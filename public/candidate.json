@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "phone": "1234567890",
+      "email": "alice@example.com",
+      "gender": "Female",
+      "experience": "2 Years",
+      "skills": ["JavaScript", "React"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "phone": "9876543210",
+      "email": "bob@example.com",
+      "gender": "Male",
+      "experience": "3 Years",
+      "skills": ["Node.js", "Express"]
+    }
+  ]
+  
